@@ -1,0 +1,10 @@
+sbt\socialnet\module\accounts\test.class
+sbt\socialnet\module\gifts\Gift.class
+sbt\socialnet\Main.class
+sbt\socialnet\module\accounts\Accounts.class
+sbt\socialnet\module\walls\Walls.class
+sbt\socialnet\module\walls\Comment.class
+sbt\socialnet\module\walls\Post.class
+sbt\socialnet\module\accounts\Account.class
+sbt\socialnet\module\accounts\Profile.class
+sbt\socialnet\module\walls\Wall.class
